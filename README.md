@@ -1,6 +1,8 @@
 # track_PhoneNo_Loc
 
-Here you can find any phoneNo's location and the service provider.
+Here you can find any phoneNo location and the service provider.
+
+[ex :- SriLanka, Dialog]
 
 language - Python
 
