@@ -1,0 +1,6 @@
+=First of all you guys need to install a package called "phonenumbers" to track the phonenumbers location and the service provider.
+
+=So type the below command on your terminal and press enter. It will take few seconds to downlaod and install it.
+
+"pip install phonenumbers"
+
